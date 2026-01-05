@@ -34,4 +34,3 @@ La app permite explorar recetas cargadas, darles like y gestionar un perfil de u
   <img src="screenshots/receta.png" width="200" />
   <img src="screenshots/perfil.png" width="200" />
 </p>
-git
